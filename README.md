@@ -2,3 +2,4 @@
 
 + **RANDU**
 + **Improved Box-Muller**
++ **Geometric**
