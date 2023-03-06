@@ -8,3 +8,4 @@ This repository contains Jupyter notebooks covering various topics related to th
 + **Improved Box-Muller**
 + **Geometric**
 + **Laplace and rejection**
++ **Control variates, antithetic variates, QMC**
